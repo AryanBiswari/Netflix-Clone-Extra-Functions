@@ -5,12 +5,12 @@
     object-fit: contain;
     padding-left: 20px;
 }
-.loginScreen{
+ .loginScreen{
     position: relative;
     height: 100%;
     background: url('http://s3-us-west-2.amazonaws.com/techvibes/wp-content/uploads/2017/04/24135159/Netflix-Background.jpg') center no-repeat;
-    background-size: cover;
-}
+    background-size: cover; 
+} 
 .loginScreen__gradiant{
     width: 100%;
     z-index: 1;
