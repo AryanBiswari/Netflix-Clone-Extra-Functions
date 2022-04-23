@@ -4,3 +4,13 @@
 .app {
   background-color: #111;
 }
+::-webkit-scrollbar{
+  width: 1vh;
+}
+::-webkit-scrollbar-thumb{
+  background-color: #f00;
+  border-radius: 5px;
+}
+::-webkit-scrollbar-track{
+  background-color: rgb(32, 32, 32);
+}
